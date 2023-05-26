@@ -1,5 +1,6 @@
 # modular_transformer
-A modular transformer for detecting hateful memes. 
+- my bachelor thesis in german: modular transformer for detecting hateful memes
+
 The model contains 6 submodels for creating input embeddings: 
 1. BERT embedder (text)
 <img width="452" alt="bert" src="https://github.com/MilanKalkenings/modular_transformer/assets/70267800/43e39e0f-95d0-412e-9634-d701eea24987">
